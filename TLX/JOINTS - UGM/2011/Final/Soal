@@ -1,0 +1,24 @@
+Deskripsi
+Minko dan teman-temannya berencana mengikuti bimbel untuk persiapan UN. 
+Mereka melihat poster suatu bimbel yang isinya jika mendaftar dengan mengajak tiga temannya yang belum ikut bimbel untuk ikut bimbel tersebut, maka tidak dikenai biaya apapun alias gratis. 
+Aturan itu berlaku juga untuk orang yang diajak jika ia mengajak tiga teman lainnya yang belum diajak ikut bimbel tersebut dan seterusnya. 
+Minko dan teman-temannya ingin memanfaatkan promosi tersebut agar dapat mendaftar dengan mengeluarkan biaya seminimal mungkin. 
+Misalkan Minko mengajak sembilan temannya untuk mendaftar bimbel, 
+maka jumlah orang minimal yang harus membayar adalah tujuh orang karena maksimal hanya tiga orang yang tidak membayar. 
+Minko ingin tahu untuk kasus yang lebih umum jika dia mengajak N temannya dan jika mengajak M teman maka gratis.
+
+Format Masukan
+Input terdiri dari dua bilangan N (1 <= N <= 1000) dan M (1 <= M <= 1000) seperti deskripsi di atas.
+
+Format Keluaran
+Output terdiri dari satu bilangan yang menyatakan jumlah orang minimal yang harus membayar.
+
+Contoh Masukan
+9 3
+
+Contoh Keluaran
+7
+
+Penjelasan
+Minko mengajak ketiga temannya lalu dua dari tiga teman yang diajak Minko masing-masing mengajak tiga orang 
+sehingga ada tujuh orang yang harus membayar.

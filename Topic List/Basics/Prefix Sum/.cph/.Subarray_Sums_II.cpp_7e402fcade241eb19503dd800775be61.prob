@@ -1,0 +1,1 @@
+{"name":"Local: Subarray_Sums_II","url":"d:\\CP Journey\\Topic List\\Basics\\Prefix Sum\\Subarray_Sums_II.cpp","tests":[{"id":1729175967260,"input":"5\n3 1 2 7 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\Topic List\\Basics\\Prefix Sum\\Subarray_Sums_II.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Maximizing_XOR","url":"d:\\CP Journey\\Topic List\\Basics\\Bitwise\\Maximizing_XOR.cpp","tests":[{"id":1728966717501,"input":"10\n15","output":""},{"id":1728966802778,"input":"11\n100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\Topic List\\Basics\\Bitwise\\Maximizing_XOR.cpp","group":"local","local":true}

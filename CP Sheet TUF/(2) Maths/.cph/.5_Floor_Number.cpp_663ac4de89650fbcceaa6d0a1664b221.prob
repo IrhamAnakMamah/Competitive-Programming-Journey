@@ -1,0 +1,1 @@
+{"name":"Local: 5_Floor_Number","url":"d:\\CP Journey\\CP Sheet TUF\\(2) Maths\\5_Floor_Number.cpp","tests":[{"id":1728202848080,"input":"4\n7 3\n1 5\n22 5\n987 13\n","output":"3\n1\n5\n77\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\CP Sheet TUF\\(2) Maths\\5_Floor_Number.cpp","group":"local","local":true}

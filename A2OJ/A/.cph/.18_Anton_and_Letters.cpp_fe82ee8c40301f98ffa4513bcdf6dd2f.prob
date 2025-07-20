@@ -1,0 +1,1 @@
+{"name":"Local: 18_Anton_and_Letters","url":"d:\\CP Journey\\A2OJ\\A\\18_Anton_and_Letters.cpp","tests":[{"id":1728485306484,"input":"{a, b, c}\n","output":"3"},{"id":1728485312112,"input":"{b, a, b, a}\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\A2OJ\\A\\18_Anton_and_Letters.cpp","group":"local","local":true}

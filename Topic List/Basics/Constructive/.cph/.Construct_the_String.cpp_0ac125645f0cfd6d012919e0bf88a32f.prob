@@ -1,0 +1,1 @@
+{"name":"Local: Construct_the_String","url":"d:\\CP Journey\\Topic List\\Basics\\Constructive\\Construct_the_String.cpp","tests":[{"id":1730724442156,"input":"4\n7 5 3\n6 1 1\n6 6 1\n5 2 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\Topic List\\Basics\\Constructive\\Construct_the_String.cpp","group":"local","local":true}

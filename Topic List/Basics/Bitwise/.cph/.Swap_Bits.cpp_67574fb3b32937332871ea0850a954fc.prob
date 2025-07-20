@@ -1,0 +1,1 @@
+{"name":"Local: Swap_Bits","url":"d:\\CP Journey\\Topic List\\Basics\\Bitwise\\Swap_Bits.cpp","tests":[{"id":1728969568170,"input":"4 10 7 43 100","output":"5 11 23 152"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\Topic List\\Basics\\Bitwise\\Swap_Bits.cpp","group":"local","local":true}

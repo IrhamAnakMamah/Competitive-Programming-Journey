@@ -1,0 +1,20 @@
+/*
+Author : Irham
+Date : 6 October 2024
+Problem : Ichihime and Triangle
+*/
+#include <bits/stdc++.h>
+#define ll long long
+using namespace std;
+
+int main (){
+  int t;
+  cin >> t;
+  while (t--)
+  {
+    int a,b,c,d;
+    cin >> a >> b >> c >> d;
+    cout << b << " " << c << " " << c << "\n";
+  }
+  
+}

@@ -1,0 +1,1 @@
+{"name":"Local: Book_Shop_Slow","url":"d:\\CP\\Topic List\\DP\\Knapsack\\Book_Shop_Slow.cpp","tests":[{"id":1752998895237,"input":"4 10\n4 8 5 3\n5 12 8 1\n","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP\\Topic List\\DP\\Knapsack\\Book_Shop_Slow.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\CP Journey\\Ngajar\\Array\\G.cpp","tests":[{"id":1731070343078,"input":"5\n1 3 2 3 1\n","output":""},{"id":1731070352976,"input":"4\n1 2 3 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\Ngajar\\Array\\G.cpp","group":"local","local":true}

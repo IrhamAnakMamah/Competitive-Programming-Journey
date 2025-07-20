@@ -1,0 +1,1 @@
+{"name":"Local: A_alt","url":"d:\\CP Journey\\TLX\\Schematics\\2024\\Final Junior\\A_alt.cpp","tests":[{"id":1728802399286,"input":"3 4\n5 2 -1\n-1 -2 3 2","output":"-10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\TLX\\Schematics\\2024\\Final Junior\\A_alt.cpp","group":"local","local":true}

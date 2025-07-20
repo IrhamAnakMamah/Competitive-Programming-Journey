@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\CP Journey\\CodeForces\\Contest\\Div 2\\170 edu\\A.cpp","tests":[{"id":1728920327945,"input":"3\nGARAGE\nGARAGEFORSALE\nABCDE\nAABCD\nTRAINING\nDRAINING\n","output":"14\n10\n16\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP Journey\\CodeForces\\Contest\\Div 2\\170 edu\\A.cpp","group":"local","local":true}
