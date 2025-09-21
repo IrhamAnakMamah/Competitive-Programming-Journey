@@ -1,24 +1,27 @@
 #include <bits/stdc++.h>
-#define ll long long
 using namespace std;
 
+using ll = long long;
+
 int main(){
-  int n;
+  ll n;
   cin >> n;
-  int a[n]; 
+
+  ll a[n];
   for (int i = 0; i < n; i++)
   {
     cin >> a[i];
   }
   
-  map<ll,int> sum;
-  ll ans = 0;
+  map<ll,int> mp;
   ll pref = 0;
-
+  ll ans = 0;
+  mp[0]++;
   for (int i = 0; i < n; i++)
   {
-    pref+=a[i];
-    ans+=sum[pref/n];
+    pref = ((a[i] + pref)%n+n)%n;
+    ans += mp[pref];
+    mp[pref]++;
   }
-  cout << ans << "\n";
+  cout << ans << endl;
 }

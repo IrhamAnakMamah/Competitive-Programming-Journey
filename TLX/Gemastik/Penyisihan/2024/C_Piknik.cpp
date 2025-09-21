@@ -55,7 +55,5 @@ int main(){
   if(sendiri > 1){
     ans++;
   }
-
   cout << ans << endl;
-
 }

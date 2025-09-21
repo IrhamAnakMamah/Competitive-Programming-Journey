@@ -3,16 +3,6 @@ using namespace std;
 
 long long a,b,c,d;
 
-void cek(long long x){
-  if(c == 0){
-    c = c - (x%3);
-    c = max(c,1LL * 0);
-  }else{
-    d = d - (x%3);
-    d = max(d,1LL * 0);
-  }
-}
-
 int main(){
   cin >> a >> b >> c >> d;
 
