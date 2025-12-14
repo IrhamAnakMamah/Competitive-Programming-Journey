@@ -2,14 +2,15 @@
 using namespace std;
 
 int main(){
-  string s, t;
-  cin >> s >> t;
+  string text, key;
+  cin >> text >> key;
 
-  int ans = 0;
-  for (int i = 0; i < s.length(); i++)
+  string ans = "";
+  for (int i = 0; i < text.length(); i++)
   {
-    // ans += (s[i] == ((char)('A' + (((t[i] - 'A') + 14) % 26))));
-    ans += (s[i] == t[i]);
+    int temp = text[i] - 'A';
+    int temp1 = key[i%(int)key.length()] - 'A';
+    cout << (temp^temp1) << endl;
   }
   cout << ans << endl;
 }
