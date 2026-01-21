@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.out
+*.o
+*.so
+*.app
+*.class
+__pycache__/
+*.pyc
+.cph/
+.vscode/
+input.txt
+output.txt
+error.txt
+.DS_Store
+Thumbs.db
+.veternity/
