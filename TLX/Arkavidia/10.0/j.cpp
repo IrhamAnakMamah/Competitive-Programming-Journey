@@ -2,8 +2,9 @@
 using namespace std;
 
 using ll = long long;
+
 const int MAXN = 2e6 + 5;
-const ll MODN = 1e9 + 7;
+const ll MODN = 998244353;
 
 ll fac[MAXN+1];
 ll invfac[MAXN+1];
@@ -47,9 +48,28 @@ ll C(ll n, ll r){
   return sum;
 }
 
+void solve(){
+  ll n, m, k;
+  cin >> n >> m >> k;
+
+  ll res1 = C(n + 2 * k, 2 * k + 1);
+  ll res2 = binpow(m, n-1, MODN);
+  ll res3 = (m * (m + 1))/2;
+  ll ans = (res2 * res3) % MODN;
+  // cout << res1 << " " << res2 << " " << res3 << endl;
+  ans = (res1 * ans) % MODN;
+  cout << ans << endl;
+}
+
 int main(){
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
   precomp();
-  ll n,r;
-  cin >> r >> n;
-  cout << C(5,1) << endl;
+  int t = 1;
+  cin >> t;
+  while (t--)
+  {
+    solve();
+  }
+  
 }
